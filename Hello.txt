@@ -1,3 +1,4 @@
 "Hello!"
 Hello everybody!
 Hi!
+hello my friend!
