@@ -1,5 +1,5 @@
-"Hello!"
-Hello everybody!
-Hi!
-hello my friend!
-See you
+"Hello!";
+Hello everybody!;
+Hi!;
+hello my friend!;
+See you;
